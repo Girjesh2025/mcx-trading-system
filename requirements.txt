@@ -1,7 +1,6 @@
-**Required Python Packages**:
-   - pandas
-   - numpy
-   - matplotlib
-   - colorama
-   - tabulate
-   - fyers_apiv3
+pandas
+numpy
+matplotlib
+colorama
+tabulate
+fyers_apiv3
