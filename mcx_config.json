@@ -1,0 +1,17 @@
+{
+    "capital": 100000,
+    "risk_per_trade": 0.02,
+    "use_trailing_stop": true,
+    "trailing_stop_percent": 0.5,
+    "take_profit_ratio": 2.0,
+    "stop_loss_atr_multiplier": 1.5,
+    "auto_exit_eod": true,
+    "favorite_symbols": [
+        "SILVER",
+        "GOLD",
+        "CRUDEOIL",
+        "NATURALGAS",
+        "COPPER",
+        "ALUMINIUM"
+    ]
+}

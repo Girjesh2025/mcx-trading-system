@@ -1,0 +1,8 @@
+python mcx_trader.py              # Normal mode with analysis
+python mcx_trader.py dashboard    # Display market dashboard only
+python mcx_trader.py signals      # Show consolidated signals across timeframes
+python mcx_trader.py virtual      # Run automated virtual trading session
+python mcx_trader.py realtime     # Start real-time market monitoring 
+python mcx_trader.py eod          # Run end-of-day analysis
+python mcx_trader.py gold         # Place a simulated GOLD trade
+python mcx_trader.py close SYMBOL # Close positions for a specific symbol
